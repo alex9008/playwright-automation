@@ -6,7 +6,7 @@ import { RegisterPage } from "../page_objects/RegisterPage.js"
 import { DeliveryDetails } from "../page_objects/DeliveryDetails.js"
 import { PaymentPage } from "../page_objects/PaymentPage.js"
 import { ThankYouPage } from "../page_objects/ThankYouPage.js"
-import { deliveryDetails as userData, deliveryDetails2 as userData2, deliveryDetails3 as userData3 } from "../data/deliveryDetails.js"
+import { deliveryDetails as userData } from "../data/deliveryDetails.js"
 import { paymentDetails } from "../data/paymentDetails.js"
 import { MyAccountPage } from "../page_objects/MyAccountPage.js"
 
